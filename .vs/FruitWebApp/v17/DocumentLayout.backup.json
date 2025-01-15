@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|d:\\learn microsoft\\render api responses in asp.net core razor pages\\fruitwebapp-render\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|d:\\learn microsoft\\render api responses in asp.net core razor pages\\fruitwebapp-render\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|d:\\learn microsoft\\render api responses in asp.net core razor pages\\fruitwebapp-render\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|d:\\learn microsoft\\render api responses in asp.net core razor pages\\fruitwebapp-render\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|d:\\learn microsoft\\render api responses in asp.net core razor pages\\fruitwebapp-render\\pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|d:\\learn microsoft\\render api responses in asp.net core razor pages\\fruitwebapp-render\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,77 +43,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:18:49.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T04:11:42.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T04:10:54.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Delete.cshtml",
               "ToolTip": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Delete.cshtml",
               "RelativeToolTip": "Pages\\Delete.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswCIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T04:09:45.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
               "ToolTip": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Edit.cshtml",
               "RelativeToolTip": "Pages\\Edit.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T04:09:34.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Add.cshtml",
               "RelativeDocumentMoniker": "Pages\\Add.cshtml",
               "ToolTip": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Add.cshtml",
               "RelativeToolTip": "Pages\\Add.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T04:09:21.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "D:\\Learn Microsoft\\Render API responses in ASP.NET Core Razor Pages\\FruitWebApp-render\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T04:00:05.229Z",
               "EditorCaption": ""
