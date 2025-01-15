@@ -32,3 +32,4 @@ D:\Learn Microsoft\Render API responses in ASP.NET Core Razor Pages\FruitWebApp-
 D:\Learn Microsoft\Render API responses in ASP.NET Core Razor Pages\FruitWebApp-render\obj\Debug\net7.0\FruitWebApp.pdb
 D:\Learn Microsoft\Render API responses in ASP.NET Core Razor Pages\FruitWebApp-render\obj\Debug\net7.0\FruitWebApp.genruntimeconfig.cache
 D:\Learn Microsoft\Render API responses in ASP.NET Core Razor Pages\FruitWebApp-render\obj\Debug\net7.0\ref\FruitWebApp.dll
+D:\Learn Microsoft\Render API responses in ASP.NET Core Razor Pages\FruitWebApp-render\obj\Debug\net7.0\FruitWebApp.sourcelink.json

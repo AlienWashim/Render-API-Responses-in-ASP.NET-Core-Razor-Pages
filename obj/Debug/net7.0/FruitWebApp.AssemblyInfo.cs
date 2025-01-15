@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FruitWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9974cee7281899b15de816251c1efef71e3c8e2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83e9a9e215f83ece04397bb3b6a8e0e7d5a9cb57")]
 [assembly: System.Reflection.AssemblyProductAttribute("FruitWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FruitWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
